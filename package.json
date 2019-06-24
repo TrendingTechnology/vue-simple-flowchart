@@ -1,7 +1,7 @@
 {
-  "name": "vue-simple-flowchart",
+  "name": "flowchart",
   "version": "0.1.8",
-  "private": false,
+  "private": true,
   "main": "./dist/vue-flowchart.common.js",
   "files": [
     "dist"
@@ -50,6 +50,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jeffreyrn/vue-simple-flowchart"
+    "url": "https://github.com/codingpsp/flowchart"
   }
 }
